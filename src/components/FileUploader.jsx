@@ -1,4 +1,3 @@
-// File: src/components/FileUploader.jsx
 import React, { useState, useRef } from 'react';
 import '../styles/FileUploader.css';
 

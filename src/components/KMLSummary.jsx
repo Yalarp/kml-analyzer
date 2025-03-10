@@ -1,4 +1,3 @@
-// File: src/components/KMLSummary.jsx
 import React from 'react';
 import '../styles/KMLSummary.css';
 
